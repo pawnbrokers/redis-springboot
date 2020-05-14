@@ -1,0 +1,9 @@
+# springboot的每一个配置，都有一个自动配置类，都有一个properties
+# RedisAutoCondition
+# RedisProperties
+# 配置redis
+spring:
+  redis:
+    host: localhost
+    port: 6379
+
